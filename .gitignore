@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+node_modules/
+
+# React build output
+frontend/build/
+
+# Environment files
+.env
+
+# Docker
+*.pid
