@@ -2,6 +2,7 @@
 *.log
 
 # Python files
+venv/
 __pycache__/
 *.pyc
 *.pyo
